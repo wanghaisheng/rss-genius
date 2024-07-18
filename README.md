@@ -5,6 +5,9 @@ Use GitHub Flat to generate RSS feeds for popular paltform
 
 https://github.com/wanghaisheng/turn-tiktok-rss-flat/tree/main
 
+https://github.com/wanghaisheng/turn-instagram-to-rss-action/tree/main
+
+
 ## shop listing rss
 
 
